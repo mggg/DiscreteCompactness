@@ -1,0 +1,1 @@
+This directory contains code for downloading geographic data and forming dual graphs (assemble_data) and for computing discrete and continuous compactness measures (metrics_code). 
