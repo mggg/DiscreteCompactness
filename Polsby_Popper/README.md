@@ -1,4 +1,4 @@
-# discrete_pipeline
+# Polsby_popper
 Building the pipeline to harvest discrete compactness measures. To go straight to our results, navigate to tables_and_figures/Tables. 
 
 ## data_assembly
